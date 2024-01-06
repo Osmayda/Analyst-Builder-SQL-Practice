@@ -12,9 +12,9 @@ https://www.analystbuilder.com
 
 **Resources used:**
 
-- Self join
+- Self Join
 
-- Cross join
+- Cross Join
 
 - Substring_index
 
@@ -24,13 +24,23 @@ https://www.analystbuilder.com
 
 - TIMESTAMPDIFF
 
-- CASE expression
+- CASE Expression
 
 - CTE
 
 - ABS
 
-- Partition by
+- Partition By
+  
+- Order By
+
+- The LIKE Operator
+  
+- Sor By
+
+- Subqueries
+  
+- Sum
 
 # For further information contact:
 
